@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, what up?</string>
+    <string name="app_name">RESTtest</string>
+    <string name="ButtonName">Knopf</string>
+
+</resources>
