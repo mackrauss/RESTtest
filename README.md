@@ -11,6 +11,7 @@ http://stackoverflow.com/a/3506039
 
 Better would be using a Service or Content Provider
 https://www.youtube.com/watch?v=xHXn3Kg2IQE
+
 http://stackoverflow.com/questions/4948152/need-sample-android-rest-client-project-which-implements-virgil-dobjanschi-rest
 
 
